@@ -60,8 +60,6 @@ a:hover {
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
 }
 
-
-
 #img-circle {
   border-radius:50%;
   box-shadow: 0px 5px 15px rgba(209, 222, 240, 0,1);
@@ -103,23 +101,15 @@ a:hover {
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
-
 }
 @media (max-width: 720px) {
   /* For a screen < 720px, this CSS will be read */
-  .main {
-    /* margin-top:200px; */
-  }
   .card-white{
     width:350px
   }
 }
-
-
 @media (max-width: 540px) {
   /* For a screen < 540px, this CSS will be read */
-
-
   .card-white{
     width:250px;
   }
